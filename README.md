@@ -11,7 +11,7 @@
 <img align="right" alt="Night Coding" width="25%" src="https://media.giphy.com/media/YPQ62IX4xd60xJDaBu/giphy.gif"/>
 
 ### 👩🏻‍💻 &nbsp;About Me
-- 🎓 &nbsp;I'm currently studying <a href="https://cs.uwaterloo.ca/future-undergraduate-students/undergraduate-programs-and-courses/business-administration-and-computer-science-double-degree">Computer Science and Business Administration at the University of Waterloo.</a>
+- 🎓 &nbsp;I'm currently studying <a href="https://uwaterloo.ca/future-students/programs/computer-science">Computer Science at the University of Waterloo.</a>
 - 🐳 &nbsp;I’m currently working on **CI / CD and Fullstack Development**
 - 🌱 &nbsp;I’m currently looking into **Scikit-learn and Algorithms & Data Structures**
 - 🎹 &nbsp;Fun fact: I just started learning how to play piano!
