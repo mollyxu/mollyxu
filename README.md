@@ -11,12 +11,12 @@
 <img align="right" alt="Night Coding" width="25%" src="https://media.giphy.com/media/YPQ62IX4xd60xJDaBu/giphy.gif"/>
 
 ### 👩🏻‍💻 &nbsp;About Me
-- 🎓 &nbsp;I'm currently studying <a href="https://uwaterloo.ca/future-students/programs/computer-science">Computer Science at the University of Waterloo.</a>
-- 🐳 &nbsp;I’m currently working on **CI / CD and Fullstack Development**
-- 🌱 &nbsp;I’m currently looking into **Scikit-learn and Algorithms & Data Structures**
-- 🎹 &nbsp;Fun fact: I just started learning how to play piano!
+- 🎓 &nbsp;I'm currently studying <a href="https://uwaterloo.ca/future-students/programs/computer-science">Computer Science at the University of Waterloo</a>
+- 🤖 &nbsp;I’m currently working on **Voice AI**
+- 🌱 &nbsp;I’m currently looking into **Natural Language Processing**
+- 🎹 &nbsp;Fun fact: I just finished learning Nuvole Bianche on the piano!
 - 📫 &nbsp;Reach out to me at [molly.xu@uwaterloo.ca](molly.xu@uwaterloo.ca) for questions and collabs!
-- 📄 &nbsp;Check out my [Resume](https://drive.google.com/file/d/1sgHQyFoPgPOKwfvv-O3_OSvPS8XATo3F/)
+- 📄 &nbsp;Check out my [Resume](https://drive.google.com/file/d/1e38zzTzyCQpCxL9GCBqzrEj3GQTCch7F/)
 <!-- - 🎹 &nbsp;Learn more about me at mollyxu.com -->
 
 ### 🛠 &nbsp;Language and Tools
