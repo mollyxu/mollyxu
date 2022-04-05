@@ -3,7 +3,7 @@
   <img align="left" alt="Molly's Linkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://open.spotify.com/user/lollypop.m">
-  <img align="left" alt="Molly's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
+  <img align="left" alt="Molly's Spotify" width="22px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FSpotify&psig=AOvVaw27Kfe6BptuB4OAu0pBoa9t&ust=1649264489426000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCIjVi5Kz_fYCFQAAAAAdAAAAABAN" />
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mollyxu.mollyxu)
