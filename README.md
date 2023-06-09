@@ -13,9 +13,9 @@
 ### 👩🏻‍💻 &nbsp;About Me
 I'm currently:
 - 🎓 &nbsp;Studying <a href="https://uwaterloo.ca/future-students/programs/computer-science">Computer Science at the University of Waterloo</a>
-- 🤖 &nbsp;Working on **Android Development**
-- 🌱 &nbsp;Looking into **Natural Language Processing**
-- 📚 &nbsp;Reading After Dark by Haruki Murakami
+- 🐳 &nbsp;Working on **Azure Container Registry?!**
+- 🌱 &nbsp;Looking into **Infra**
+- 📚 &nbsp;Reading Crying in H Mart by Michelle Zauner
 - 📫 &nbsp;Reach out to me at [molly.xu@uwaterloo.ca](molly.xu@uwaterloo.ca) for questions and collabs!
 - 📄 &nbsp;Check out my [Resume](https://drive.google.com/file/d/1e38zzTzyCQpCxL9GCBqzrEj3GQTCch7F/)
 <!-- - 🎹 &nbsp;Learn more about me at mollyxu.com -->
