@@ -17,11 +17,12 @@ I'm currently:
 - 🌱 &nbsp;Looking into **Infra**
 - 📚 &nbsp;Reading Crying in H Mart by Michelle Zauner
 - 📫 &nbsp;Reach out to me at [molly.xu@uwaterloo.ca](molly.xu@uwaterloo.ca) for questions and collabs!
-- 📄 &nbsp;Check out my [Resume](https://drive.google.com/file/d/1e38zzTzyCQpCxL9GCBqzrEj3GQTCch7F/)
+- 📄 &nbsp;Check out my [Resume](https://drive.google.com/file/d/1DZnIZ8x-Dh0PwkXK2WIPs4an0Nl-ir9Q/)
 <!-- - 🎹 &nbsp;Learn more about me at mollyxu.com -->
 
 ### 🛠 &nbsp;Language and Tools
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=c%2B%2B&logoColor=00599C)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
@@ -42,23 +43,5 @@ I'm currently:
 
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-
-### 📈 My GitHub Stats:
-<p align="center">
-<a href="https://github.com/mollyxu">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mollyxu&theme=prussian&hide_border=true"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mollyxu&count_private=true&hide=stars&show_icons=true&theme=prussian&hide_border=true"/>
-</a>
-</p>
-<p align="center">
-  <a>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mollyxu&theme=prussian&hide_border=true"/>
-  </a>
-</p>
-
-<br />
-
-Credits: [JayantGoel001](https://github.com/JayantGoel001/), [abhisheknaiidu](https://github.com/abhisheknaiidu)
 
 
