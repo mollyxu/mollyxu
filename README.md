@@ -1,6 +1,6 @@
 # Hey there, I'm Molly! 👋 
 <a href="https://www.linkedin.com/in/mollyxu4/">
-  <img align="left" alt="Molly's Linkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Molly's Linkedin" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
 </a>
 <a href="https://open.spotify.com/user/lollypop.m">
   <img align="left" alt="Molly's Spotify" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/1/19/Spotify_logo_without_text.svg" />
